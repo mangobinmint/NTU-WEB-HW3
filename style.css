@@ -1,0 +1,32 @@
+.f1 {
+    width: 0px;
+    height: 0px;
+    background-color: aqua;
+    border-bottom: 100px blue solid;
+    border-top: 100px green solid;
+    border-right: 100px red solid;
+    border-left: 100px yellow solid;
+    margin-bottom: 20px;
+}
+
+.f2 {
+    width: 0px;
+    height: 0px;
+    background-color: aqua;
+    border-top: 50px #75bdfa solid;
+    border-right: 50px #2f57fc solid;
+    border-left: 50px #04098e solid;
+    border-bottom: 0px yellow solid;
+    display: inline-block;
+    margin: -2.5px;
+}
+
+.f3 {
+    width: 200px;
+    height: 50px;
+    background: #08f508;
+    border: 5px green solid;
+    border-top: 5px green double;
+    border-bottom: 5px green dotted;
+}
+.f4{width:150px;height:200px;background: #08f508;border:5px green solid;border-top:5px green dotted;margin:auto;margin-left: 25px;margin-right: 25px;margin-top: -5px;}
