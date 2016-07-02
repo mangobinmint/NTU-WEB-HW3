@@ -29,4 +29,16 @@
     border-top: 5px green double;
     border-bottom: 5px green dotted;
 }
-.f4{width:150px;height:200px;background: #08f508;border:5px green solid;border-top:5px green dotted;margin:auto;margin-left: 25px;margin-right: 25px;margin-top: -5px;}
+
+.f4 {
+    width: 150px;
+    height: 200px;
+    background: #08f508;
+    border: 5px green solid;
+    border-top: 5px green dotted;
+    margin: auto;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: -5px;
+}
+.f5{}
