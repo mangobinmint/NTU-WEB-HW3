@@ -41,4 +41,67 @@
     margin-right: 25px;
     margin-top: -5px;
 }
-.f5{}
+
+.big {
+    width: 960px;
+    height: 600px;
+    background-color: #f70562;
+    border-style: none
+}
+
+.title {
+    width: 250px;
+    height: 130px;
+    background-color: #414040;
+    padding: 0px;
+    margin-top: 10px;
+   margin-left: 30px;
+    
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-family: monospace;
+    color: aliceblue;
+    display: inline-block
+}
+
+.money {
+    text-align: center;
+    font-family: fantasy;
+    font-size: 48px;
+    margin: 8px;
+}
+
+.icon {
+    font-size: 15px;
+    font-family: monospace;
+    vertical-align: top;
+}
+
+.inside {
+    font-size: 15px;
+    font-family: monospace;
+}
+
+.des {
+    font-size: 15px;
+    font-family: monospace;
+    padding: 5px;
+    border: 1px white solid;
+}
+.white{width: 250px;
+    height: auto;
+    background-color: #fdfdfd;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-family: monospace;
+    color: #373839;
+    margin-top: -5px;
+    margin-left: 30px;
+    display: inline-block;}
+
+.white hr {
+    margin-left: 50px;
+    margin-right: 50px;
+}
