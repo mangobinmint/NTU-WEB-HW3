@@ -51,7 +51,7 @@
 
 .title {
     width: 250px;
-    height: 130px;
+    height: 160px;
     background-color: #414040;
     padding: 0px;
     margin-top: 50px;
@@ -90,7 +90,7 @@
     border: 1px white solid;
 }
 .white{width: 250px;
-    height: auto;
+    height:130px;
     background-color: #fdfdfd;
     font-size: 5px;
     letter-spacing: 2px;
